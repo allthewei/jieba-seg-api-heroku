@@ -10,11 +10,11 @@ app = Flask(__name__)
 
 @app.route("/seg", methods=['POST', 'GET'])
 def jieba_seg():
-    if not request.args.get('text'):
+    if not request.args.get('q'):
         return packJsonReturn(-1, 'no seg text')
     
     # text = 'text'.encode('utf-8')
-    segs = jieba.lcut(request.args.get('text'))
+    segs = jieba.lcut(request.args.get('q'))
     if not segs:
         return packJsonReturn(-2, 'no seg result')
         
