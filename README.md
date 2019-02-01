@@ -1,5 +1,5 @@
 ## jieba-seg-api-heroku
-將jieba部署到heroku上，實現斷詞API
+將[jieba](https://github.com/fxsjy/jieba)部署到heroku上，實現斷詞API
 
 ### 部署指令
 先確認有設置好heroku
