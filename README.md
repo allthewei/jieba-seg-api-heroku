@@ -12,7 +12,6 @@ git push heroku master
 ### Example 
 ```
 https://intense-coast-89223.herokuapp.com/seg?q=將jieba部署到heroku上，實現斷詞API
-# https://intense-coast-89223.herokuapp.com/為部署到heroku所形成的網址
 ```
 ```
 {
