@@ -11,7 +11,7 @@ git push heroku master
 ```
 ### Example 
 ```
-https://intense-coast-89223.herokuapp.com/seg?q=將jieba部署到heroku上，實現斷詞API
+https://XXXXXX-XXXXX-XXXXX.herokuapp.com/seg?q=將jieba部署到heroku上，實現斷詞API
 ```
 ```
 {
