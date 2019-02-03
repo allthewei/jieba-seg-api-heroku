@@ -37,3 +37,11 @@ https://XXXXXX-XXXXX-XXXXX.herokuapp.com/seg?q=將jieba部署到heroku上，實�
   ]
 }
 ```
+若無結果
+```
+{
+resCode: -1,
+resMsg: "no seg result",
+resData: null
+}
+```
