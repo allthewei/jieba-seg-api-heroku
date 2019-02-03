@@ -32,4 +32,4 @@ https://XXXXXX-XXXXX-XXXXX.herokuapp.com/seg?q=將jieba部署到heroku上，實�
 }
 ```
 ### Post Request
-直接對https://XXXXXX-XXXXX-XXXXX.herokuapp.com/seg執行POST
+直接對https://XXXXXX-XXXXX-XXXXX.herokuapp.com/seg 執行post request
