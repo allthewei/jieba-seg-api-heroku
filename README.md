@@ -9,7 +9,7 @@ cd jieba-seg-api-heroku
 heroku create
 git push heroku master
 ```
-### Example 
+### Query Mode
 ```
 https://XXXXXX-XXXXX-XXXXX.herokuapp.com/seg?q=將jieba部署到heroku上，實現斷詞API
 ```
@@ -31,3 +31,5 @@ https://XXXXXX-XXXXX-XXXXX.herokuapp.com/seg?q=將jieba部署到heroku上，實�
   ]
 }
 ```
+### Post Request
+直接對https://XXXXXX-XXXXX-XXXXX.herokuapp.com/seg執行POST
